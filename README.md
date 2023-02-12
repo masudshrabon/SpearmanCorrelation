@@ -1,4 +1,4 @@
-# Spearman correlation (r) calculation in R
+# Spearman rank correlation (r) calculation in R Language
 
 We have used R Studio for the script.
 
